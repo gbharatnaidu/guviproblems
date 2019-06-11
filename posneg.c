@@ -5,8 +5,8 @@ scanf("%d",&n);
 if(n>0)
     printf("Positive");
 else if(n<0)
-    printf("negative");
+    printf("Negative");
 else
-    printf("zero");
+    printf("Zero");
 return 0;
 }
