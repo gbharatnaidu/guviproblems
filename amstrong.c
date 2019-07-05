@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 int n,c=0,sum=0,rem;
-scanf("%d",n);
+scanf("%d",&n);
 int k=n,m=n;
 while(n>0){
     c++;
